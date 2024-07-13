@@ -20,5 +20,5 @@ This is a simple Java application that generates email accounts for new hires. T
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- An IDE such as IntelliJ IDEA or Eclipse
+- An IDE such as IntelliJ IDEA 
 
